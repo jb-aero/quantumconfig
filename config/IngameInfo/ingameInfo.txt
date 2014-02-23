@@ -1,0 +1,21 @@
+<topleft>&6&o<username>&f: &e<score>
+&fDay <day> (<daytime[&e/&8]><mctime[12]>&f)
+Light: <max[<lightnosunfeet>/7[&e/&c]]><max[<lightnosunfeet>/9[&a/]]><lightnosunfeet> &f/ <max[<lightfeet>/7[&e/&c]]><max[<lightfeet>/9[&a/]]><lightfeet>
+&fXP: &e<xpthislevel>&f / &e<xpcap>
+World: &3<worldname>&7, <raining[&b/&9]><snowing[&f/]><thundering[&m/]><dimension>&r&7, <slimes[&2/&a]><biome>
+FPS: &9<fps>
+Rendered <entitiesrendered> / <entitiestotal> entities
+Using <memused> / <memmax>
+
+<texturepack>
+
+
+<middleleft>MCArrows: &e<itemquantity[262]>
+TCArrows: &a<itemquantity[14329]>
+<equippedname>&7: &c<equippeddamageleft>&7/&8<equippedmaxdamage>
+<helmetname>&7: &c<helmetdamageleft>&7/&8<helmetmaxdamage>
+<chestplatename>&7: &c<chestplatedamageleft>&7/&8<chestplatemaxdamage>
+<leggingsname>&7: &c<leggingsdamageleft>&7/&8<leggingsmaxdamage>
+<bootsname>&7: &c<bootsdamageleft>&7/&8<bootsmaxdamage>
+
+<bottomright>[&4<rltime[h:mma]>&f]
