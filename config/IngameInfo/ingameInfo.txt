@@ -1,4 +1,8 @@
-<topleft>&6&o<username>&f: &e<score>
+<topleft>
+
+
+
+&6&o<username>&f: &e<score>
 &fDay <day> (<daytime[&e/&8]><mctime[12]>&f)
 Light: <max[<lightnosunfeet>/7[&e/&c]]><max[<lightnosunfeet>/9[&a/]]><lightnosunfeet> &f/ <max[<lightfeet>/7[&e/&c]]><max[<lightfeet>/9[&a/]]><lightfeet>
 &fXP: &e<xpthislevel>&f / &e<xpcap>
@@ -7,15 +11,15 @@ FPS: &9<fps>
 Rendered <entitiesrendered> / <entitiestotal> entities
 Using <memused> / <memmax>
 
-<texturepack>
+&7Tex:&f <texturepack>
 
 
 <middleleft>MCArrows: &e<itemquantity[262]>
 TCArrows: &a<itemquantity[14329]>
-<equippedname>&7: &c<equippeddamageleft>&7/&8<equippedmaxdamage>
-<helmetname>&7: &c<helmetdamageleft>&7/&8<helmetmaxdamage>
-<chestplatename>&7: &c<chestplatedamageleft>&7/&8<chestplatemaxdamage>
-<leggingsname>&7: &c<leggingsdamageleft>&7/&8<leggingsmaxdamage>
-<bootsname>&7: &c<bootsdamageleft>&7/&8<bootsmaxdamage>
+&c<equippeddamageleft>&7/&8<equippedmaxdamage>&7: <equippedname>
+&c<helmetdamageleft>&7/&8<helmetmaxdamage>&7: <helmetname>
+&c<chestplatedamageleft>&7/&8<chestplatemaxdamage>&7: <chestplatename>
+&c<leggingsdamageleft>&7/&8<leggingsmaxdamage>&7: <leggingsname>
+&c<bootsdamageleft>&7/&8<bootsmaxdamage>&7: <bootsname>
 
 <bottomright>[&4<rltime[h:mma]>&f]
