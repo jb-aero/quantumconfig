@@ -14,12 +14,12 @@ Using <memused> / <memmax>
 &7Tex:&f <texturepack>
 
 
-<middleleft>MCArrows: &e<itemquantity[262]>
-TCArrows: &a<itemquantity[14329]>
-&c<equippeddamageleft>&7/&8<equippedmaxdamage>&7: <equippedname>
-&c<helmetdamageleft>&7/&8<helmetmaxdamage>&7: <helmetname>
-&c<chestplatedamageleft>&7/&8<chestplatemaxdamage>&7: <chestplatename>
-&c<leggingsdamageleft>&7/&8<leggingsmaxdamage>&7: <leggingsname>
-&c<bootsdamageleft>&7/&8<bootsmaxdamage>&7: <bootsname>
+<middleleft>    MCArrows: &e<itemquantity[262]>
+    TCArrows: &a<itemquantity[14329]>
+    &c<equippeddamageleft>&7/&8<equippedmaxdamage>&7: <equippedname>
+    &c<helmetdamageleft>&7/&8<helmetmaxdamage>&7: <helmetname>
+    &c<chestplatedamageleft>&7/&8<chestplatemaxdamage>&7: <chestplatename>
+    &c<leggingsdamageleft>&7/&8<leggingsmaxdamage>&7: <leggingsname>
+    &c<bootsdamageleft>&7/&8<bootsmaxdamage>&7: <bootsname>
 
-<bottomright>[&4<rltime[h:mma]>&f]
+<bottomright>[&4<rltime[h:mma]>&f]            
