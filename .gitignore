@@ -1,3 +1,10 @@
+config/MCA/Worlds/
+config/MCA/ServerWorlds/
+/MapWriter.cfg
+/MapWriterBlockColors.txt
+/Opis.cfg
+
+
 *.class
 
 # Package Files #
