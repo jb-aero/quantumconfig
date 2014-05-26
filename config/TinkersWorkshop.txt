@@ -133,7 +133,7 @@ block {
     B:"Lower bronze output to 2 ingots"=false
     B:"Modifiers increase Mining Level"=true
     B:"Remove Vanilla Tool Recipes"=false
-    B:"Spawn beginner book"=true
+    B:"Spawn beginner book"=false
 }
 
 

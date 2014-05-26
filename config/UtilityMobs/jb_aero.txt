@@ -1,0 +1,17 @@
+player_permissions
+111 jb_aero
+
+whitelist
+net.minecraft.entity.monster.EntitySilverfish
+net.minecraft.entity.monster.EntitySkeleton
+net.minecraft.entity.monster.EntitySlime
+net.minecraft.entity.monster.EntitySpider
+net.minecraft.entity.monster.EntityWitch
+net.minecraft.entity.monster.EntityZombie
+drzhark.mocreatures.entity.monster.MoCEntityWerewolf
+drzhark.mocreatures.entity.monster.MoCEntityScorpion
+drzhark.mocreatures.entity.monster.MoCEntityOgre
+drzhark.mocreatures.entity.monster.MoCEntitySilverSkeleton
+drzhark.mocreatures.entity.monster.MoCEntityWWolf
+
+blacklist
